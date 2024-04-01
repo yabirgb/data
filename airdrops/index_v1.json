@@ -290,5 +290,6 @@
             "I Played 4 YFI",
             "d1aabcc0fb66fe04fd6a88e5e7225a8d88c21b512daa2ca0fda1fd0f929a3cb1"
         ]
-    }
+    },
+    "airdrops_missing_decoders": ["sdl", "psp", "degen2_season1", "optimism_4"]
 }
