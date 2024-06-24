@@ -270,6 +270,24 @@
                 "chain_id": 324,
                 "decimals": 18
             }
+        },
+        "layerzero": {
+            "csv_path": "airdrops/layerzero.csv",
+            "csv_hash": "ec1c52b55ffbe2d0e373f1c8aedb059767d239f5f22639383ede3b253953c7e0",
+            "asset_identifier": "eip155:1/erc20:0x6985884C4392D348587B19cb9eAAf157F13271cd",
+            "url": "https://layerzero.foundation/",
+            "name": "LayerZero",
+            "icon": "layerzero.svg",
+            "icon_path": "airdrops/icons/layerzero.jpg",
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+                "name": "LayerZero",
+                "symbol": "ZRO",
+                "chain_id": 1,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
